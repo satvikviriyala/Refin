@@ -1,2 +1,2 @@
 # Refin
-Reimagining Finane
+Rethinking Finane
